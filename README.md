@@ -1,7 +1,7 @@
 <h1 align = "center"> CS50 : Introduction to Programming With Python </h1>
 <img src = "Images/CS50 Banner.jpg" align = "center" width  = "1000">
 
-> <img src = "Images/Harvard Banner.png" width = "100" align = "center"> ***Harvard University, Cambridge, Massachusetts, U.S***
+> <img src = "Images/Harvard Banner.png" width = "150" align = "center"> ***Harvard University, Cambridge, Massachusetts, U.S***
 
 <h2 align="left"> <img src = "https://www.freeiconspng.com/thumbs/tasks-icon/tasks-icon-9.png" width = 25 align = "center"> TABLE OF CONTENTS </h2>
 
