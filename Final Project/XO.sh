@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python /mnt/c/users/amirr/'Main Server'/'Python Projects'/'CS50 Final Project'/project.py
